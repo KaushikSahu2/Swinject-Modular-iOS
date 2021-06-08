@@ -1,0 +1,15 @@
+
+App/.DS_Store
+*.xcworkspacedata
+*.plist
+*.xcscheme
+App/App/.DS_Store
+App/App/Assets.xcassets/.DS_Store
+Common/.DS_Store
+Common/Dependencies/.DS_Store
+Modules/Logger/.DS_Store
+Modules/Logger/Logger/Versions/.DS_Store
+Modules/Push/.DS_Store
+Modules/Storage/.DS_Store
+*.xcuserstate
+*.xcbkptlist
