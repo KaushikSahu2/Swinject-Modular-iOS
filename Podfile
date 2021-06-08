@@ -7,7 +7,7 @@ use_frameworks!
 inhibit_all_warnings!
 
 def shared_pods
-    pod 'Swinject', '2.0.0'
+    pod 'Swinject', '2.7.1'
 end
 
 xcodeproj 'App/App.xcodeproj'
